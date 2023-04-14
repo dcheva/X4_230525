@@ -1,6 +1,6 @@
 
 *.gz
 *.bin
-/save
-/save/*
-!/save/quicksave*
+./save
+./save/*
+!./save/quicksave*
