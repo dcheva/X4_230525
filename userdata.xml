@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <known_lockbox_rare>1</known_lockbox_rare>
-  <known_sector>9</known_sector>
+  <known_sector>12</known_sector>
   <relation_ceremony_10>1</relation_ceremony_10>
   <relation_ceremony_20>1</relation_ceremony_20>
-  <people_crew_count>1</people_crew_count>
-  <money_boughtship_m>1</money_boughtship_m>
+  <people_crew_count>10</people_crew_count>
+  <money_boughtship_m>2</money_boughtship_m>
   <money_tradeamount_100k>1</money_tradeamount_100k>
 </root>
