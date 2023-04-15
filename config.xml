@@ -3,29 +3,29 @@
   <!-- graphic options -->
   <fullscreen>false</fullscreen>
   <borderless>true</borderless>
-  <antialiasing>fxaa_low</antialiasing>
+  <antialiasing>fxaa_medium</antialiasing>
   <upmode>none</upmode>
   <presentmode>immediate</presentmode>
   <colorcorrection>0</colorcorrection>
   <gamma>1.00</gamma>
   <capturehq>false</capturehq>
-  <gfxquality>3</gfxquality>
+  <gfxquality>0</gfxquality>
   <!-- high gfx preset -->
-  <shaderquality>2</shaderquality>
+  <shaderquality>1</shaderquality>
   <shadows>2</shadows>
   <softshadows>true</softshadows>
-  <ssao>2</ssao>
-  <glow>3</glow>
-  <lodfactor>0.50</lodfactor>
-  <effectdistance>0.50</effectdistance>
-  <distortion>true</distortion>
+  <ssao>1</ssao>
+  <glow>0</glow>
+  <lodfactor>0.25</lodfactor>
+  <effectdistance>0.30</effectdistance>
+  <distortion>false</distortion>
   <disableradar>false</disableradar>
   <radarquality>1</radarquality>
   <ssr>false</ssr>
   <ssrquality>low</ssrquality>
-  <texturequality>high</texturequality>
+  <texturequality>medium</texturequality>
   <chromaticaberration>true</chromaticaberration>
-  <volumetric>2</volumetric>
+  <volumetric>1</volumetric>
   <!-- sound options -->
   <nosound>false</nosound>
   <volumetotal>1.00</volumetotal>
