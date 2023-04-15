@@ -90,4 +90,35 @@
       <crew role="service" exact="2"/>
     </crew>
   </loadout>
+  <loadout id="player_1681527645" name="Стандарт+" description="" macro="ship_gen_m_tugboat_01_a_macro" player="1">
+    <macros>
+      <engine macro="engine_par_m_allround_01_mk2_macro" path="../con_engine_03"/>
+      <engine macro="engine_par_m_allround_01_mk2_macro" path="../con_engine_02"/>
+      <engine macro="engine_par_m_allround_01_mk2_macro" path="../con_engine_01"/>
+      <engine macro="engine_par_m_allround_01_mk2_macro" path="../con_engine_05"/>
+      <engine macro="engine_par_m_allround_01_mk2_macro" path="../con_engine_04"/>
+      <shield macro="shield_arg_m_standard_01_mk2_macro" path="../con_shield_01"/>
+      <turret macro="turret_gen_m_scrapbeam_01_mk1_macro" path="../con_turret_03"/>
+      <turret macro="turret_gen_m_scrapbeam_01_mk1_macro" path="../con_turret_02"/>
+      <turret macro="turret_gen_m_scrapbeam_01_mk1_macro" path="../con_turret_01"/>
+    </macros>
+    <ammunition>
+      <ammunition macro="countermeasure_flares_01_macro" exact="4"/>
+    </ammunition>
+    <software>
+      <software ware="software_dockmk2"/>
+      <software ware="software_flightassistmk1"/>
+      <software ware="software_scannerlongrangemk2"/>
+      <software ware="software_scannerobjectmk2"/>
+      <software ware="software_targetmk1"/>
+      <software ware="software_trademk1"/>
+    </software>
+    <virtualmacros>
+      <thruster macro="thruster_gen_m_allround_01_mk2_macro"/>
+    </virtualmacros>
+    <crew>
+      <crew role="marine"/>
+      <crew role="service"/>
+    </crew>
+  </loadout>
 </loadouts>
