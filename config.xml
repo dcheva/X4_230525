@@ -28,7 +28,7 @@
   <volumetric>1</volumetric>
   <!-- sound options -->
   <nosound>false</nosound>
-  <volumetotal>1.00</volumetotal>
+  <volumetotal>0.75</volumetotal>
   <volumemusic>0.75</volumemusic>
   <volumevoice>1.00</volumevoice>
   <volumeambient>1.00</volumeambient>
