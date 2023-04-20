@@ -79,4 +79,6 @@
   <showlongrangescanviz>true</showlongrangescanviz>
   <globallightscale>1.0</globallightscale>
   <!-- modified settings -->
+  <chardensity>0.50</chardensity>
+  <trafficdensity>0.50</trafficdensity>
 </root>

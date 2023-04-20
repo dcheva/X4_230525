@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <unlock_x4gamestart_boso>0</unlock_x4gamestart_boso>
-  <known_sector>1</known_sector>
+  <known_sector>8</known_sector>
   <story_hq_signal_leak>1</story_hq_signal_leak>
   <story_research_module_venture>1</story_research_module_venture>
 </root>

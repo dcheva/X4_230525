@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <progressbar>
-  <type name="newgame" loaded="1">
-    <step name="init" duration="19.232"/>
-    <step name="map" duration="16.5402"/>
-    <step name="cutscenes" duration="0.219568"/>
-    <step name="scripts" duration="11.0241"/>
-    <step name="stations" duration="20.0009"/>
-    <step name="jobs" duration="31.7177"/>
-    <step name="starting" duration="6.92509"/>
+  <type name="newgame" loaded="2">
+    <step name="init" duration="24.8729"/>
+    <step name="map" duration="15.3732"/>
+    <step name="cutscenes" duration="0.268028"/>
+    <step name="scripts" duration="13.6067"/>
+    <step name="stations" duration="18.1484"/>
+    <step name="jobs" duration="40.8533"/>
+    <step name="starting" duration="7.3682"/>
   </type>
   <type name="savedgame">
     <step name="init" duration="3.5"/>

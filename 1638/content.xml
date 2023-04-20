@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content>
-  <extension id="ws_1668855817" enabled="false"></extension>
-  <extension id="ws_2824211283" enabled="false"></extension>
-  <extension id="ws_2895686248" enabled="false"></extension>
+<content sync="false">
+  <extension id="ws_1668855817" enabled="true"></extension>
+  <extension id="ws_2824211283" enabled="true"></extension>
+  <extension id="ws_2895686248" enabled="true"></extension>
+  <extension id="new_anomaly_toa" enabled="true"></extension>
 </content>
