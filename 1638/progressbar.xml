@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <progressbar>
-  <type name="newgame" loaded="1">
-    <step name="init" duration="3.49657"/>
-    <step name="map" duration="48.2764"/>
-    <step name="cutscenes" duration="1.25857"/>
-    <step name="scripts" duration="3.21834"/>
-    <step name="stations" duration="23.7868"/>
-    <step name="jobs" duration="5.25034"/>
-    <step name="starting" duration="3.50495"/>
+  <type name="newgame" loaded="2">
+    <step name="init" duration="3.86501"/>
+    <step name="map" duration="34.737"/>
+    <step name="cutscenes" duration="0.88284"/>
+    <step name="scripts" duration="3.76192"/>
+    <step name="stations" duration="18.16"/>
+    <step name="jobs" duration="6.07857"/>
+    <step name="starting" duration="3.24325"/>
   </type>
-  <type name="savedgame" loaded="29">
-    <step name="init" duration="6.25063"/>
-    <step name="map" duration="18.9462"/>
-    <step name="scripts" duration="5.93214"/>
-    <step name="init2" duration="0.475916"/>
-    <step name="map2" duration="86.3106"/>
-    <step name="economylog" duration="2.19334"/>
-    <step name="scripts2" duration="4.59095"/>
-    <step name="patch" duration="0.00762285"/>
-    <step name="scripts3" duration="2.98971"/>
-    <step name="jobs" duration="18.9101"/>
+  <type name="savedgame" loaded="32">
+    <step name="init" duration="6.19591"/>
+    <step name="map" duration="16.0741"/>
+    <step name="scripts" duration="4.61591"/>
+    <step name="init2" duration="0.420389"/>
+    <step name="map2" duration="50.4821"/>
+    <step name="economylog" duration="1.14634"/>
+    <step name="scripts2" duration="3.94572"/>
+    <step name="patch" duration="0.0050665"/>
+    <step name="scripts3" duration="3.06812"/>
+    <step name="jobs" duration="10.8439"/>
   </type>
 </progressbar>

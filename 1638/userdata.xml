@@ -8,4 +8,7 @@
   <money_boughtship_m>3</money_boughtship_m>
   <money_tradeamount_100k>1</money_tradeamount_100k>
   <people_pilot_5star_onload>2</people_pilot_5star_onload>
+  <unlock_x4gamestart_boso>0</unlock_x4gamestart_boso>
+  <unlock_x4gamestart_trade>1</unlock_x4gamestart_trade>
+  <unlock_x4gamestart_scientist>1</unlock_x4gamestart_scientist>
 </root>
