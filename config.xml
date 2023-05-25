@@ -3,7 +3,7 @@
   <!-- graphic options -->
   <fullscreen>false</fullscreen>
   <borderless>true</borderless>
-  <antialiasing>fxaa_medium</antialiasing>
+  <antialiasing>msaa_2x</antialiasing>
   <upmode>none</upmode>
   <presentmode>immediate</presentmode>
   <colorcorrection>0</colorcorrection>
