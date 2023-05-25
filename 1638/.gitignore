@@ -5,4 +5,5 @@
 *.bin
 ./save
 ./save/*
+!save/quicksave*
 !./save/quicksave*
