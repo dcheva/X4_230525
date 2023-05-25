@@ -1,8 +1,0 @@
-1638
-1638/
-1638/*
-*.gz
-*.bin
-./save
-./save/*
-!./save/quicksave*
